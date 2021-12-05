@@ -1,4 +1,7 @@
 # Weighted and Directed graph 
+A weighted directed graph  is represented as a list of (vertex-edgelist) pairs, where the pairs are in standard order , the edgelist is a list of (neighbor-weight) pair also in standard order, every weight is a nonnegative integer, and every neighbor appears as a vertex even if it has no neighbors itself."
+A common operation on weighted (directed) graphs is the shortest-path computation; the determination of the path(s) from two nodes A and B such that the sum of the weights of the vertices on the path is minimal
+
 ![](https://i.stack.imgur.com/hF3mQ.png)
 
 ## What is a graph?
