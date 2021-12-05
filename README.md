@@ -1,5 +1,5 @@
 # Weighted and Directed graph 
-![](https://www.google.co.il/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FhF3mQ.png&imgrefurl=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F23947839%2Fdistance-between-two-nodes-in-weighted-directed-graph&tbnid=0TUMonvNfFfbDM&vet=12ahUKEwie3rPmzsv0AhVShHMKHWyQCZkQMygAegUIARCoAQ..i&docid=-H_5LO4N4MYOmM&w=408&h=264&q=Weighted%20and%20Directed%20graph&ved=2ahUKEwie3rPmzsv0AhVShHMKHWyQCZkQMygAegUIARCoAQ)
+![](https://i.stack.imgur.com/hF3mQ.png)
 
 ## What is a graph?
 Graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called link or line). Typically, a graph is depicted in diagrammatic form as a set of dots or circles for the vertices, joined by lines or curves for the edges. The edges may be directed or undirected. 
