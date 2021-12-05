@@ -1,5 +1,5 @@
 # Weighted and Directed graph 
-
+![](https://www.google.co.il/url?sa=i&url=https%3A%2F%2Fmath-wiki.com%2Fimages%2Fa%2Fae%2FAlgo_tirgul8-9.pdf&psig=AOvVaw2_yoftj-yFvEMu1HIdubNm&ust=1638757392155000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi_xpjNy_QCFQAAAAAdAAAAABAD)
 
 ## What is a graph?
 Graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called link or line). Typically, a graph is depicted in diagrammatic form as a set of dots or circles for the vertices, joined by lines or curves for the edges. The edges may be directed or undirected. 
