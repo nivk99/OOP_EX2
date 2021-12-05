@@ -8,6 +8,9 @@ It differs from an ordinary or undirected graph, in that the latter is defined i
 [Explanation from Wikipedia](https://en.wikipedia.org/wiki/Directed_graph)
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Directed_graph.svg/1280px-Directed_graph.svg.png)
+
+
 ## What does Weighted graph mean?
 A weighted graph or a network is a graph in which a number (the weight) is assigned to each edge. Such weights might represent for example costs, lengths or capacities, depending on the problem at hand. Such graphs arise in many contexts, for example in shortest path problems such as the traveling salesman problem.
 [Explanation from Wikipedia](https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A3_%D7%9E%D7%9E%D7%95%D7%A9%D7%A7%D7%9C),
