@@ -40,6 +40,7 @@ A weighted graph or a network is a graph in which a number (the weight) is assig
 ## 🔗Links🔗:
 
 ## ✨Diagram class✨
+![](https://github.com/nivk99/OOP_Ex2/blob/main/src.png)
 
 
 ## ©️license & copyright©️:
