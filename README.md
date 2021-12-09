@@ -40,6 +40,12 @@ The OOP_Ex2 wiki!
 
 ## 🔗Links🔗:
 
+[Graph Theory - Weighted Graphs](https://www.youtube.com/watch?v=MurOpIGCmhQ)
+[Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
+[Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+[Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk)
+[Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w)
+
 ## ✨Diagram class✨
 ![](https://github.com/nivk99/OOP_Ex2/blob/main/src.png)
 
