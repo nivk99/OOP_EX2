@@ -58,6 +58,3 @@ A weighted graph or a network is a graph in which a number (the weight) is assig
 
 **© Kotek Niv** 
 📧 <niv.kotek@msmail.ariel.ac.il >
-
-**© Shevach Aviv** 
-📧 <aviv.shevach@msmail.ariel.ac.il >
